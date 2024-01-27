@@ -1,0 +1,66 @@
+
+TD.mpL0Ico
+{
+  width:21px;
+  height:17px;
+  white-space:nowrap;
+  background-image:url('../img/map/level0.gif');
+  background-position:center center;
+  background-repeat:no-repeat;
+}
+
+TD.mpL1Ico
+{
+  width:21px;
+  height:17px;
+  white-space:nowrap;
+  background-image:url('../img/map/level1.gif');
+  background-position:center center;
+  background-repeat:no-repeat;
+}
+
+TD.mpL2Ico
+{
+  width:21px;
+  height:16px;
+  white-space:nowrap;
+  background-image:url('../img/map/level2.gif');
+  background-position:center center;
+  background-repeat:no-repeat;
+}
+
+
+TD.mpLineH
+{
+  background-image:url('../img/map/lineh.gif');
+  background-position:top left;
+  background-repeat:repeat-y;
+  font-size:0px;
+  vertical-align:top;
+  text-align:right;
+}
+
+
+TD.mpSubItem
+{
+  background-image:url('../img/map/sub.gif');
+  background-position:top right;
+  background-repeat:no-repeat;
+}
+
+.mpSubItemEnd
+{
+  background-image:url('../img/map/end.gif');
+  background-position:top right;
+  background-repeat:no-repeat;
+}
+
+TD.mpItem
+{
+  background-image:url('../img/map/item.gif');
+  background-position:top left;
+  background-repeat:no-repeat;
+  padding-left:19px;
+  height:17px;
+}
+

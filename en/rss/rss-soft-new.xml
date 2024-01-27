@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SoftPortal.com: newest software</title>
+    <link>https://www.softportal.com/en/</link>
+    <description>List of new software at Softportal.com</description>
+    <language>uk</language>
+    <pubDate>Sat, 27 Jan 2024 06:22:01 +0300</pubDate>
+    <lastBuildDate>Sat, 27 Jan 2024 06:22:01 +0300</lastBuildDate>
+    <webMaster>support@softportal.com (Admin)</webMaster>
+    <generator>SoftPortal RSS Generator</generator>
+    <image>
+      <url>https://www.softportal.com/en/img/btn/sp88_8.gif</url>
+      <link>https://www.softportal.com/en/rss/rss-soft-new.xml</link>
+      <title>SoftPortal.com: newest software</title>
+    </image>
+    <atom:link href="https://www.softportal.com/en/rss/rss-soft-new.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AllDup 4.5.58</title>
+      <link>https://www.softportal.com/en/alldup/windows/software</link>
+      <description>AllDup is a free tool to find and remove duplicate files on your computer</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/alldup/windows/software</guid>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0300</pubDate>
+      <category>System / Files</category>
+      <enclosure url="https://www.softportal.com/en/scr/1075/alldup-big-1.png" length="22619" type="image/png"/>
+    </item>
+    <item>
+      <title>Microsoft Visual C++ Redistributable Package 2010</title>
+      <link>https://www.softportal.com/en/microsoft-visual-c-redistributable-package/windows/software</link>
+      <description>Microsoft Visual C++ Redistributable Package - a package that installs the Visual C++ library runtime components required to run applications developed with Visual C++ on a computer without the Visual C++ 2010 environment installed</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/microsoft-visual-c-redistributable-package/windows/software</guid>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0300</pubDate>
+      <category>System / Patches, updates</category>
+    </item>
+    <item>
+      <title>Android Studio 2023.1.1.26</title>
+      <link>https://www.softportal.com/en/android-studio/windows/software</link>
+      <description>Android Studio - a complete platform for developing and testing applications for the Android operating system</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/android-studio/windows/software</guid>
+      <pubDate>Thu, 14 Dec 2023 00:00:00 +0300</pubDate>
+      <category>Programming / Tools, Utils</category>
+      <enclosure url="https://www.softportal.com/en/scr/1038/android-studio-big-1.png" length="29552" type="image/png"/>
+    </item>
+    <item>
+      <title>RegScanner 2.71</title>
+      <link>https://www.softportal.com/en/regscanner/windows/software</link>
+      <description>RegScanner is a small free utility that scans the registry according to specified search criteria and then, displays a list of found registry values</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/regscanner/windows/software</guid>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0300</pubDate>
+      <category>System / other</category>
+      <enclosure url="https://www.softportal.com/en/scr/1031/regscanner-big-1.png" length="18559" type="image/png"/>
+    </item>
+    <item>
+      <title>USB Image Tool 1.90</title>
+      <link>https://www.softportal.com/en/usb-image-tool/windows/software</link>
+      <description>An easy-to-use portable program that allows you to easily create and restore USB drive backups. The utility works with IMG and IMA formats and allows you to manage images depending on the profiles used by the user</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/usb-image-tool/windows/software</guid>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0300</pubDate>
+      <category>System / Backup, restore</category>
+      <enclosure url="https://www.softportal.com/en/scr/1011/usb-image-tool-big-1.jpg" length="74017" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ashampoo Burning Studio Free 24.0.45</title>
+      <link>https://www.softportal.com/en/ashampoo-burning-studio-free/windows/software</link>
+      <description>Ashampoo Burning Studio Free is a free application for working with CD/DVD/Blu-Ray disks, with which you can easily burn audio and video of various formats to optical media. There is a built-in CD Ripper, the ability to create images</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/ashampoo-burning-studio-free/windows/software</guid>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / CD,DVD,Blu-ray</category>
+      <enclosure url="https://www.softportal.com/en/scr/1009/ashampoo-burning-studio-free-big-1.png" length="18303" type="image/png"/>
+    </item>
+    <item>
+      <title>PeaZip 9.5.0</title>
+      <link>https://www.softportal.com/en/peazip/windows/software</link>
+      <description>PeaZip is a free archiver that supports the most common archive formats: 7Z, ACE, ARC/WRC, ARJ, BZ/TBZ, CAB, CHM/CHZ/HXS, CPIO, 7Z-sfx, BZ2/TBZ2, GZ/TGZ, PAQ/LPAQ, QUAD, TAR, UPX, ZIP and many others</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/peazip/windows/software</guid>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0300</pubDate>
+      <category>System / Archivers</category>
+      <enclosure url="https://www.softportal.com/en/scr/1008/peazip-big-1.png" length="13311" type="image/png"/>
+    </item>
+    <item>
+      <title>Acronis True Image WD Edition 24.0.28080</title>
+      <link>https://www.softportal.com/en/acronis-true-image-wd-edition/windows/software</link>
+      <description>A free tool that allows you to easily clone disks and backup your entire system, installed applications, settings and all user data. Works with local HDD/SSD disks, network drives, and removable devices</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/acronis-true-image-wd-edition/windows/software</guid>
+      <pubDate>Fri, 20 Oct 2023 00:00:00 +0300</pubDate>
+      <category>System / Backup, restore</category>
+    </item>
+    <item>
+      <title>Mouse Jiggler 2.0.25</title>
+      <link>https://www.softportal.com/en/mouse-jiggler/windows/software</link>
+      <description>A free and easy-to-use tool that can simulate mouse movements so that you can avoid, for example, the screensaver appearing too often and hibernation being turned on or off. The program does not require installation</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/mouse-jiggler/windows/software</guid>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0300</pubDate>
+      <category>System / Emulators</category>
+      <enclosure url="https://www.softportal.com/en/scr/1003/mouse-jiggler-big-1.png" length="1549" type="image/png"/>
+    </item>
+    <item>
+      <title>SP Flash Tool 5.1924</title>
+      <link>https://www.softportal.com/en/sp-flash-tool/windows/software</link>
+      <description>A useful program for flashing MTK-based phones and tablets. The key feature of the application that sets it apart from its competitors is support for all MediaTek processors, which allows you to reflash or repair absolutely any Android device</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/sp-flash-tool/windows/software</guid>
+      <pubDate>Tue, 10 Oct 2023 00:00:00 +0300</pubDate>
+      <category>Internet / Telephony, SMS, MMS</category>
+      <enclosure url="https://www.softportal.com/en/scr/1004/sp-flash-tool-big-1.png" length="54980" type="image/png"/>
+    </item>
+    <item>
+      <title>SSD Tweaker 4.0.1</title>
+      <link>https://www.softportal.com/en/ssd-tweaker/windows/software</link>
+      <description>SSD Tweaker is a small, free utility that allows you to quickly configure your operating system for optimal interaction with SSD drives</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/ssd-tweaker/windows/software</guid>
+      <pubDate>Fri, 06 Oct 2023 00:00:00 +0300</pubDate>
+      <category>System / Optimization</category>
+      <enclosure url="https://www.softportal.com/en/scr/1002/ssd-tweaker-big-1.png" length="16008" type="image/png"/>
+    </item>
+    <item>
+      <title>USB Low-Level Format 5.01</title>
+      <link>https://www.softportal.com/en/usb-low-level-format/windows/software</link>
+      <description>A free program for low-level formatting of USB disks. The application allows you to delete all data from the disk, including settings and contents, and then add zero bytes to every location on the disk, thus returning the performance to the factory state</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/usb-low-level-format/windows/software</guid>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0300</pubDate>
+      <category>System / Memory cards, USB</category>
+      <enclosure url="https://www.softportal.com/en/scr/1001/usb-low-level-format-big-1.png" length="10923" type="image/png"/>
+    </item>
+    <item>
+      <title>FL Studio (FruityLoops) 21.1.1.3750</title>
+      <link>https://www.softportal.com/en/fl-studio-fruityloops/windows/software</link>
+      <description>FL Studio (FruityLoops) - A well-proven program that has a synthesizer, drum machine, samples, and everything else a musician needs to create his own works</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/fl-studio-fruityloops/windows/software</guid>
+      <pubDate>Fri, 15 Sep 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / Audio</category>
+      <enclosure url="https://www.softportal.com/en/scr/912/fl-studio-fruityloops-big-1.png" length="378072" type="image/png"/>
+    </item>
+    <item>
+      <title>Ontrack EasyRecovery Pro 16.0.0.2</title>
+      <link>https://www.softportal.com/en/ontrack-easyrecovery-pro/windows/software</link>
+      <description>Ontrack EasyRecovery Pro - Allows you to easily recover data on your hard drive as in the simplest cases - after deleting them from the recycle garbage can, and lost due to a mistaken disk formatting or virus attack</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/ontrack-easyrecovery-pro/windows/software</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0300</pubDate>
+      <category>System / Backup, restore</category>
+      <enclosure url="https://www.softportal.com/en/scr/962/ontrack-easyrecovery-pro-big-1.png" length="19491" type="image/png"/>
+    </item>
+    <item>
+      <title>ATITool 0.26</title>
+      <link>https://www.softportal.com/en/atitool/windows/software</link>
+      <description>ATITool is an application for the automatic overclocking of ATI and NVIDIA graphics cards, including monitoring, overclocking, and general and fine-tuning control. There is no overclocking frequency limit, and temperature control, and fan control</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/atitool/windows/software</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / Video</category>
+      <enclosure url="https://www.softportal.com/en/scr/961/atitool-big-1.png" length="60229" type="image/png"/>
+    </item>
+    <item>
+      <title>Windows Repair 4.14.0</title>
+      <link>https://www.softportal.com/en/windows-repair/windows/software</link>
+      <description>Windows Repair is a tool to repair various Windows settings with which user can fix most of the known issues like registry errors, file permissions, native firewall, and IE browser issues</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/windows-repair/windows/software</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0300</pubDate>
+      <category>System / Backup, restore</category>
+      <enclosure url="https://www.softportal.com/en/scr/954/windows-repair-big-1.png" length="21546" type="image/png"/>
+    </item>
+    <item>
+      <title>Cutting 3 1.50</title>
+      <link>https://www.softportal.com/en/cutting-3/windows/software</link>
+      <description>Cutting 3 - program for optimal cutting of material into rectangular or linear parts</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/cutting-3/windows/software</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / other</category>
+      <enclosure url="https://www.softportal.com/en/scr/950/cutting-3-big-1.png" length="21484" type="image/png"/>
+    </item>
+    <item>
+      <title>Passmark MonitorTest 4.0 Build 1001</title>
+      <link>https://www.softportal.com/en/passmark-monitortest/windows/software</link>
+      <description>Passmark MonitorTest - The program is a test to evaluate the quality of CRT, LCD, and plasma monitors.</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/passmark-monitortest/windows/software</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0300</pubDate>
+      <category>Multimedia / Video</category>
+      <enclosure url="https://www.softportal.com/en/scr/937/passmark-monitortest-big-1.png" length="12325" type="image/png"/>
+    </item>
+    <item>
+      <title>Duplicate Cleaner 5.20.0.1</title>
+      <link>https://www.softportal.com/en/duplicate-cleaner/windows/software</link>
+      <description>Duplicate Cleaner is a free program to find and remove duplicates of all types of files: photos, music, videos, Word documents, PowerPoint presentations, text files, and others</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/duplicate-cleaner/windows/software</guid>
+      <pubDate>Thu, 14 Sep 2023 00:00:00 +0300</pubDate>
+      <category>System / Files</category>
+      <enclosure url="https://www.softportal.com/en/scr/933/duplicate-cleaner-big-12.png" length="41533" type="image/png"/>
+    </item>
+    <item>
+      <title>Jagannatha Hora 8.0</title>
+      <link>https://www.softportal.com/en/jagannatha-hora/windows/software</link>
+      <description>Jagannatha Hora is one of the most popular programs for Vedic astrologers. The program is intended not only for those who are seriously engaged in Vedic astrology but also for those who are just beginning to study it</description>
+      <guid isPermaLink="true">https://www.softportal.com/en/jagannatha-hora/windows/software</guid>
+      <pubDate>Wed, 13 Sep 2023 00:00:00 +0300</pubDate>
+      <category>Hobbies / Mysticism, astrology</category>
+      <enclosure url="https://www.softportal.com/en/scr/952/jagannatha-hora-big-1.png" length="123661" type="image/png"/>
+    </item>
+  </channel>
+</rss>
